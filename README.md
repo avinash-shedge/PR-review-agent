@@ -1,6 +1,6 @@
 # PR Review Agent
 
-An automated tool that uses AI to review GitHub Pull Requests, providing intelligent feedback on code quality, bugs, security, and best practices.
+An automated tool that uses AI to review GitHub Pull Requests, providing intelligent feedback on code quality, bugs, security, and best practices..
 
 ## Features
 
